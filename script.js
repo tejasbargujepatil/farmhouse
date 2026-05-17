@@ -94,5 +94,5 @@ document.getElementById('inquiryForm').addEventListener('submit', function(e) {
     `_Sent from gangutaranivas.com_`
   ].filter(Boolean).join('\n');
 
-  window.open(`https://wa.me/919309331040?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
+  window.open(`https://wa.me/919370716029?text=${encodeURIComponent(text)}`, '_blank', 'noopener');
 });
